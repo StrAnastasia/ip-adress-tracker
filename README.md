@@ -1,4 +1,5 @@
 # Инструкция по запуску приложения
-- сколнировать репозиторий
+- git clone https://github.com/StrAnastasia/ip-adress-tracker.git
+- cd ip-adress-tracker
 - npm i
 - npm start
